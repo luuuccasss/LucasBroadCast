@@ -1,0 +1,21 @@
+---
+messages:
+  message1:
+    time: 250
+    message: "§aBienvenue sur le serveur ! Profitez de votre aventure."
+    world: all
+    popup: true
+    sound: ClickSound
+  message2:
+    time: 300
+    message: "§eRappel : Respectez les règles pour une meilleure expérience !"
+    world: lobby
+    popup: true
+    sound: none
+  message3:
+    time: 400
+    message: "§bAmusez-vous et bonne exploration !"
+    world: none
+    popup: false
+    sound: none
+...

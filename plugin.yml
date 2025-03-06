@@ -1,0 +1,10 @@
+name: LucasBroadcast
+version: 1.0.0
+api: 5.0.0
+main: LucasBroadcast\Main
+author: luuuccasss
+website: https://luuuccasss.live
+description: Un plugin de BroadCast
+permissions:
+  lucasbroadcast.command:
+    default: op
