@@ -1,4 +1,4 @@
-# 📢 LucasBroadcast - Plugin de Diffusion Automatique
+# 📢 LucasBroadcast - Message Automatique
 
 LucasBroadcast est un plugin qui permet d'afficher automatiquement des messages personnalisés sur votre serveur. Offrant une gestion flexible, il permet d'envoyer des messages sous différentes formes, dans des mondes spécifiques et avec des sons intégrés.
 
